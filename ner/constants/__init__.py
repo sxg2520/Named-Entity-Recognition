@@ -40,3 +40,6 @@ TOKENIZER_FILE_NAME = "tokenizer.pkl"
 
 MODEL_EVALUATION_ARTIFACTS_DIR = "ModelEvaluationArtifacts"
 
+
+APP_HOST = "0.0.0.0"
+APP_PORT = 8080
